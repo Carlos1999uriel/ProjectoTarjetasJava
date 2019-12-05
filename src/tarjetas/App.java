@@ -18,6 +18,7 @@ public class App {
         Preguntar p = new Preguntar();
         p.Pregun();
         System.out.println("Hola "+p);
+        System.out.println("Adios");
     }
     
 }
