@@ -17,6 +17,7 @@ public class App {
     public static void main(String[] args) {
         Preguntar p = new Preguntar();
         p.Pregun();
+        System.out.println("Hola "+p);
     }
     
 }
